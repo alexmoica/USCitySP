@@ -1,0 +1,13 @@
+BFS: BOSTON, NEW YORK CITY, PHILADELPHIA, BALTIMORE, WASHINGTON, CHARLOTTE, ATLANTA, PITTSBURGH, COLUMBUS, INDIANAPOLIS, ST. LOUIS, KANSAS CITY, DENVER, OKLAHOMA CITY, DALLAS, HOUSTON, NEW ORLEANS, MEMPHIS, JACKSONVILLE, MIAMI, NASHVILLE, MINNEAPOLIS
+
+DFS: BOSTON, NEW YORK CITY, PHILADELPHIA, BALTIMORE, WASHINGTON, CHARLOTTE, ATLANTA, PITTSBURGH, COLUMBUS, INDIANAPOLIS, ST. LOUIS, KANSAS CITY, DENVER, OKLAHOMA CITY, DALLAS, HOUSTON, NEW ORLEANS, MEMPHIS, JACKSONVILLE, SAN ANTONIO, MIAMI, NASHVILLE, CHICAGO, MINNEAPOLIS
+
+Most Cost Efficient Path From BOSTON To MINNEAPOLIS:
+
+                          City                              Meal Choice         Cost of Meal                                           Restaurant Address 
+                        BOSTON                                      N/A                  N/A                                                          N/A 
+                 NEW YORK CITY                         McChicken - Meal                $3.79                                       Terminal 4 JFK Airport 
+                    PITTSBURGH               Double Cheeseburger - Meal                $4.38                 Pittsburgh Intl Airport Satellite T Terminal 
+                      COLUMBUS                         McChicken - Meal                $3.79                                               1006 S High St 
+                       CHICAGO               Double Cheeseburger - Meal                $4.38                                             10 E Chicago Ave 
+                   MINNEAPOLIS                         McChicken - Meal                $3.79                                          2929 Hennepin Ave S 

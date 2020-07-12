@@ -1,2 +1,2 @@
 # USCitySP
-Program to find the shortest and most cost-efficient path between any two US cities, providing the most direct path while taking into account stops for food in each city. Written in Java and makes use of Dijkstra's shortest path algorithm.
+USCitySP is a program used to find the shortest and most cost-efficient path between any two US cities, providing the most direct path while taking into account stops for food in each city. Written in Java and making use of Dijkstra's shortest path algorithm, USCitySP outputs the BFS and DFS traces, as well as the shortest path with city names, meal prices, and restaurant addresses, into a text file. The goal of this project was to learn how to create and manipulate graphs and graphing algorithms in Java.
